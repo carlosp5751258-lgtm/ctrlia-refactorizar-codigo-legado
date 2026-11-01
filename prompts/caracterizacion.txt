@@ -1,0 +1,6 @@
+Escribe tests de CARACTERIZACIÓN en tests/test_facturas.py (unittest) para facturas.total:
+deben fijar el comportamiento ACTUAL, aunque parezca un error, no el que debería tener.
+Cubre: cantidad None, cliente VIP, el descuento de 50 al pasar de 1000, el orden
+VIP-luego-50, lista vacía y si la función modifica la lista de entrada.
+No toques facturas.py. Ejecuta los tests (deben pasar todos) y al final lista
+en 3 viñetas las rarezas que encontraste.

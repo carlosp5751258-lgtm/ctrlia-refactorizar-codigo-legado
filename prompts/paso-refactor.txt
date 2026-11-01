@@ -1,0 +1,4 @@
+Haz SOLO este cambio: <cambio concreto, p. ej. extrae el descuento VIP a una función aplicar_vip>.
+No cambies el comportamiento ni edites nada en tests/.
+Ejecuta python3 -m unittest discover -s tests -t . y enséñame la salida.
+Si algún test falla, deshaz el cambio y dime por qué ha fallado.

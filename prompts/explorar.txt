@@ -1,0 +1,1 @@
+Explica qué hace facturas.total, quién la llama (busca en todo el repo), qué datos recibe y qué efectos secundarios tiene. No propongas cambios todavía.
