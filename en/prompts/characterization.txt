@@ -1,0 +1,6 @@
+Write CHARACTERIZATION tests in tests/test_invoices.py (unittest) for invoices.total:
+they must pin the CURRENT behavior, even if it looks like a bug, not the behavior it should have.
+Cover: quantity None, VIP customer, the 50 discount above 1000, the order
+VIP-then-50, empty list and whether the function modifies its input list.
+Don't touch invoices.py. Run the tests (they must all pass) and at the end list
+in 3 bullets the quirks you found.

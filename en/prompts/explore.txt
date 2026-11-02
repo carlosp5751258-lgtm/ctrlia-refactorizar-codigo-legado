@@ -1,0 +1,1 @@
+Explain what invoices.total does, who calls it (search the whole repo), what data it receives and what side effects it has. Don't propose changes yet.

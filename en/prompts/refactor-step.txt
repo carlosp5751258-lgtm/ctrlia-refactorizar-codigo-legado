@@ -1,0 +1,4 @@
+Make ONLY this change: <specific change, e.g. extract the VIP discount into an apply_vip function>.
+Don't change the behavior or edit anything in tests/.
+Run python3 -m unittest discover -s tests -t . and show me the output.
+If any test fails, undo the change and tell me why it failed.

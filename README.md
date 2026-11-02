@@ -2,6 +2,8 @@
 
 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Un ejemplo para practicar el método de 5 pasos de la receta: explorar en modo plan, fijar el comportamiento actual con tests de caracterización, cambiar en pasos pequeños con commit y tener un camino de vuelta con git y `/rewind`. Incluye una función de facturación de 2014 con rarezas reales, unos tests de caracterización de ejemplo, los prompts de cada paso y el bloque para tu CLAUDE.md.
 
 - Receta en español: https://ctrlia.dev/recetas/refactorizar-codigo-legado.html
